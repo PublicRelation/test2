@@ -1,0 +1,2 @@
+print hallo word
+hello my dr friend
